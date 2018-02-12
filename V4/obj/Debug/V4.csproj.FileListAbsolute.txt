@@ -1,0 +1,14 @@
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\bin\Debug\V4.exe.config
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\bin\Debug\V4.exe
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\bin\Debug\V4.pdb
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\obj\Debug\V4.csprojResolveAssemblyReference.cache
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\obj\Debug\V4.csproj.CoreCompileInputs.cache
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\obj\Debug\V4.exe
+G:\ALL\УЧЕБА\ZHOLOBOVA\ОС-САОД\V4\V4\obj\Debug\V4.pdb
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\bin\Debug\V4.exe.config
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\bin\Debug\V4.exe
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\bin\Debug\V4.pdb
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\obj\Debug\V4.csprojResolveAssemblyReference.cache
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\obj\Debug\V4.csproj.CoreCompileInputs.cache
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\obj\Debug\V4.exe
+G:\ALL\УЧЕБА\ZHOLOBOVA\PR2\V4\V4\obj\Debug\V4.pdb
